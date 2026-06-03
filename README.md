@@ -72,22 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gabrielpereirabrito&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/gabrielpereirabrito/gabrielpereirabrito/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2psc2MzanQ0cWphNHBzZXFia3J5NDBzYjFnZHowMnZjN282YXRhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/giphy.gif"  />
 </div>
